@@ -1,2 +1,2 @@
-# ccompression
-Simple text compression algorithm I made for fun.
+# tcompress
+Relatively simple text compression algorithm I am making, using both RLE and Huffman encoding.
